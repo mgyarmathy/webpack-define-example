@@ -1,0 +1,1 @@
+console.log(`flagr url: ${process.env.FLAGR_API_URL}`)
